@@ -43,6 +43,7 @@ TEST 4: API CALLS
 
 Screen Shots
 Screenshots saved under IdeaProjects\automateShpCart
+
 Note: Please note that this is a maven project. Hence after cloning this project, ensure the Maven added to run the project. 
 Please following steps from below link
 https://www.lagomframework.com/documentation/1.4.x/java/IntellijMaven.html
